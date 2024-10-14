@@ -1,3 +1,4 @@
+# Soft Computing Portfolio
 Welcome to my Soft Computing Portfolio! This repository showcases various projects and assignments I have completed in the field of soft computing. Below, you'll find detailed descriptions of each project, including the methodologies used and the outcomes achieved.
 
 ## Table of Contents
